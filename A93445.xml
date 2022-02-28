@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for England; wherein is expressed, severall passages, and remarkable observations, concerning the uniting of the Kings most excellent Majesty, and his great councell, the High Court of Parliament. Together, vvith divers heads or motives, / drawn up by Dr. George Snell, Dr. of Divinity; who being a delinquent (formerly) hath now taken the nationall covenant, and set forth these reasons for his submitting to the King and Parliament. Very usefull in these times, and necessary for all sorts of people to peruse. Published by speciall authority.</title>
+            <author>Snell, George, d. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93445</idno>
+            <idno type="STC">Wing S4392</idno>
+            <idno type="STC">Thomason E330_18</idno>
+            <idno type="STC">ESTC R200722</idno>
+            <idno type="EEBO-CITATION">99861388</idno>
+            <idno type="PROQUEST">99861388</idno>
+            <idno type="VID">159629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159629)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E330[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for England; wherein is expressed, severall passages, and remarkable observations, concerning the uniting of the Kings most excellent Majesty, and his great councell, the High Court of Parliament. Together, vvith divers heads or motives, / drawn up by Dr. George Snell, Dr. of Divinity; who being a delinquent (formerly) hath now taken the nationall covenant, and set forth these reasons for his submitting to the King and Parliament. Very usefull in these times, and necessary for all sorts of people to peruse. Published by speciall authority.</title>
+                  <author>Snell, George, d. 1656.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>April 3. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print bleed-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159629:1" rendition="simple:additions"/>
+            <p>A Looking-Glasse FOR ENGLAND; <hi>Wherein is expreſsed,</hi> Severall Paſſages, and Remarkable Obſerva<g ref="char:EOLhyphen"/>tions, concerning the uniting of the Kings moſt excellent Majeſty, and His Great Councell, the High Court of Parliament.</p>
+            <p>TOGETHER, VVith divers Heads or Motives, drawn up by Dr. <hi>George Snell,</hi> Dr. of Divinity; Who being a Delin<g ref="char:EOLhyphen"/>quent (formerly) hath now taken the Nationall Covenant, and ſet forth theſe Reaſons for his ſubmitting to the KING and PARLIAMENT.</p>
+            <p>
+               <hi>Very uſefull in theſe Times, and neceſsary for all ſorts of People to peruſe.</hi>
+            </p>
+            <p>Publiſhed by ſpeciall Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for ROBERT WOOD, April 3. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159629:2"/>
+            <pb n="1" facs="tcp:159629:2"/>
+            <head>TO MY LOVING FRIEND, <hi>R. W.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>HEre incloſed are ſeverall Heads or Motives drawn up and delivered us by Doctor <hi>Snell</hi> Dr. of Divinity, being called before us for his Delinquencie, ſet<g ref="char:EOLhyphen"/>ting forth the reaſons of his ſubmiſſion to the King and Parliament, and taking of the Nationall Covenant; ſo I reſt</p>
+                  <closer>
+                     <dateline>Cheſter <date>the 23. of March, 1645.</date>
+                     </dateline> 
+                     <signed>H. C.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This was occaſioned by <hi>R. I.</hi> one of the Sequeſtrators at <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> who having ſtraitly charged <hi>George Snell,</hi> Doctor of Divinity, the ſubmitter; that he came to wake his ſub<g ref="char:EOLhyphen"/>miſſion as a Temporizer, and without making conſcience of his Oath, &amp;c. the ſubmittent to teſtifie, that he deſerved no ſuch hard cenſure, did ſhortly afterward ſhew to the Accuſant theſe enſuing Motives.
+<list>
+                  <item>1. THat he was moved to ſubmit not to the King one<g ref="char:EOLhyphen"/>ly, but to the Parliament alſo; becauſe in the weighty affaires of the Kingdom, now in agitation, the moſt faithfull, and moſt wiſe Councell of the Land ought to be uſed.</item>
+                  <pb n="2" facs="tcp:159629:3"/>
+                  <item>
+                     <label>II.</label> Becauſe the matters now in variance between the King and Parliament, onely ſeeme to concern the outward order of the Church and Common Weal the diſpo<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tion of which is conceived to pertain wholy to the Kings Maieſty and un<g ref="char:EOLhyphen"/>to the honourable Houſes who as holding the ſup<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eam Go<g ref="char:EOLhyphen"/>vernance, next unto the Holy Ghoſt, and the ſacred Word, ever ſince <hi>Moſes</hi> the Prophet, have as other State Aſſem<g ref="char:EOLhyphen"/>blies, alwayes appointed the particularities of publike Af<g ref="char:EOLhyphen"/>faires.</item>
+                  <item>
+                     <label>III.</label> To the King and Parliament becauſe the moſt approved Students of the Engliſh Laws, do very often in their Books affirm, that the Kings Majeſty is ſo fully incorporate into His Councell, that His Majeſty and His Councell are ever<g ref="char:EOLhyphen"/>more taken as joint Agents in every buſineſſe of moment, that doth concern His Crown and Kingdome; whence it is, that the King is never in any Court called to appear; for that by the common intendment of the Law His Royal pre<g ref="char:EOLhyphen"/>ſence is alwayes underſtood to be virtually and vigorouſly preſent in all Seats of Juſtice; yea though the King ſhould be an Infant in the Cradle.</item>
+                  <item>
+                     <label>IV.</label> Becauſe the King and his Par<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iament ſeem to be the on<g ref="char:EOLhyphen"/>ly true Father and Mother and the Weal publike to be their true naturall Child; and a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> when the Son falls ſick the father, for remedy doth willingly commend him to the joint care of the tender-hearted Mother untill his wonted health be regained <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> even ſo at thi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> time the great Colledge of State-Phyſitians having diſcovered to the Royall Father, that this Child of the Publike State is taken with a dange<g ref="char:EOLhyphen"/>rous diſeaſe His Majeſty according to the conſtant cuſtome in ſuch caſe hath referred the cure to the aſſociate avd of that honourable Mother; ſo that <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uring this courſe of Phy<g ref="char:EOLhyphen"/>ſick, that Soveraign Father ſeemes to have ſuſpended his ſole regent Power, which nevertheleſſe, ſo ſoon as the Pati<g ref="char:EOLhyphen"/>ent
+<pb n="3" facs="tcp:159629:3"/>ſhall be made whole, that Mother in all duty will hum<g ref="char:EOLhyphen"/>bly reſign him to the former government of his Soveraign Parent; and ſo in caſe of perillous Diſeaſe, the Mother may ſeem to rule jointly with the Father.</item>
+                  <item>
+                     <label>V.</label> To His Majeſty and to the Parliament, becauſe it is thought that the High Court of Parliament ariſeth over the Realm of England even as the Sun in the ſphear of Heaven at whoſe appearance, all other Courts and Counsels of this Land doth totally vaniſh, as doth the Stars before the Sun beames, ſaving what influence thoſe Inferiours may bor<g ref="char:EOLhyphen"/>row from that Supream Court.</item>
+                  <item>
+                     <label>VI.</label> Not onely to the King but to the Parliament likewiſe; for that as by the Cuſtomary Law of England all Courts have power not onely to defend their Authority; but more, to make by-laws, and orders; to bind all that ſtand ſubject to their juriſdiction and that ſo long and ſo farre as it ſhall ſeeme good to the Iudge of each Court: in like ſort, it is verily beleived that the high Senate of Parliament of Right, hath ſuch power in the Superlative, while the Parliament is continued, to make Edicts and Orders to further their deſignes, and that with a <hi>Non obſtante,</hi> of any Law enacted.</item>
+                  <item>
+                     <label>VII.</label> To the King and Parliament, according to the Oath and Covenant, which is now required, the Oath requiring no<g ref="char:EOLhyphen"/>thing but what is due unto any protective Power, and the Nationall Covenant, for ſubſtance, being heretofore made implicitly in the Statute of uniting England and Scotland: And were it not ſo yet ſeeing the higheſt Court of Sena<g ref="char:EOLhyphen"/>tors do exact nothing of us, but what they aver, and proteſt is lawfull and right: we that by the Lawes muſt beleive the verdict of a Iury of ordinary perſons is lawfull and true; how much greater beleife ought wee to yeeld unto the grand verdict of thoſe many hundreds of <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urates, impar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el'd to paſſe upon the life and liberty of all this Kingdome:
+<pb n="4" facs="tcp:159629:4"/>we may well ſtand perſwaded that they have better fore<g ref="char:EOLhyphen"/>ſeen, that the Oath, Covenant, and Obedience which they require of the Kings Subjects, is not contrary unto that Oath and fealty, by which we all ſtand bound to His Maje<g ref="char:EOLhyphen"/>ſty then the wiſeſt man alone is able to fore-fee; and as the Lawyers ſay, <hi>opertet neminem eſſe ſapientiorem legibus,</hi> even ſo it is phrenſie not onely preſumption, that any one ſhould think himſelf wiſer then the whole Parliament of Eng<g ref="char:EOLhyphen"/>land.</item>
+                  <item>
+                     <label>VIII.</label> To the King, and to the Parliament that now is, more then unto any Parliament yet held in England; not onely in reverent reſpect to that ſurpaſſing meaſure of knowledg, and wiſdome, which in this Age of Learning is farre more excellent in the Members of the Two Houſes then in any Times of their fore-Fathers: but alſo, becauſe to that al<g ref="char:EOLhyphen"/>moſt illimited Power which the Parliament naturally hath, the Kings Majeſty hath granted an illimited time: ſo that to this Senatorian Order, we ought to be very ſpecially faithfull and loyall.</item>
+                  <item>
+                     <label>IX.</label> Vnto both joyntly; becauſe of that inſeparable Vnion, which our Laws, and Law-Students do averre to hold inſo<g ref="char:EOLhyphen"/>lubly between the King and his Counſel, in regard of which incorporate union; They ſay, <hi>Rex Anglia non p<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>teſt injuſtae agere, Rex Angliae nunquam exiſtit in minoritate.</hi> The King of England can do nothing unjuſtly: The King of England is never under age: Theſe, and many like honourable ſayings are ſpoken concerning the Kings of England: Yet as the Iuriſprudents of this Land, do ſay, not in relation to the Kings ſole perſon; but as his Majeſty ſtands inceſſantly in<g ref="char:EOLhyphen"/>corporate into his Councell, from whence his legall abili<g ref="char:EOLhyphen"/>ties and perfections, as from a living Fountain in a ſort are derived.</item>
+                  <pb n="5" facs="tcp:159629:4"/>
+                  <item>
+                     <label>X.</label> To the King and Parliament now, if ever, for that to the extream grief of all loyall hearts, now they ſtand at ſuch op<g ref="char:EOLhyphen"/>poſite diſtance, that the very foundations of the Kingdome ſeem to be ſhaken; and now what true-born child of that Royall Father, and moſt Honourable Mother doth not quake and tremble to ſee his Father in Arms againſt his Mother; and the Mother againſt that ever honoured Father, he is of a baſtard-kind that wiſheth either to deſtroy the other, and of a more baſtard-generation is he that would have any for<g ref="char:EOLhyphen"/>raign Enemy to conquer them both; for it is evident the one of thoſe publick Parents cannot fall to ruine, without the utter deſtruction of the other: And ſubmiſſion to both, without oppoſition to either, is like to be the readieſt way to reconciliation.</item>
+                  <item>
+                     <label>XI.</label> Unto both; becauſe, in <hi>arduis negotiis Regni,</hi> ſuch as are now on foot the whole State of the Kingdom, by the wiſ<g ref="char:EOLhyphen"/>dome of our Elders hath ever been ſubmitted, to the King conjoyned to his Parliament: And now if ever we do need the true Formalities and Roabs of an able Parliament, that by their predominant Power tranſcendent Authority, and pious Wiſdome, the preſent conſuming miſchiefes may be reſtrained and extinguiſhed.</item>
+                  <item>
+                     <label>XII.</label> Laſtly, to the King and Parliament now; becauſe never any Parliament hitherto, that we know, hath ſo much teſti<g ref="char:EOLhyphen"/>fied by publike Devotions to Almighty God, and by deep and often Proteſtations unto the Kings Majeſty, and to all
+<pb n="6" facs="tcp:159629:5"/>his well-affected Subjects, that next after the glory of God and the welfare of the true Religion, they do intend and in<g ref="char:EOLhyphen"/>deavour nothing ſo much as the ſafety of his Majeſties per<g ref="char:EOLhyphen"/>ſon, the augmentation of His Majeſties Honour, and the peace and proſperity of all His Majeſties Kingdomes: now ſeeing both Houſes of Parliament, the moſt great and moſt Honourable Councell of England alwayes have made, and ſtill do perſevere in making ſuch Prayers and Proteſtations; it ſeemes not onely an intollerable offence againſt Charity, but an abuſe inexpiable againſt common Humanity by ob<g ref="char:EOLhyphen"/>ſtinate incredulity, to give the lye unto thoſe moſt honou<g ref="char:EOLhyphen"/>rable Senators, and to all the great Councell of England; by cheriſhing any opinion or thought, that this moſt honoura<g ref="char:EOLhyphen"/>ble Aſſembly of Councellours do moſt wickedly conſpire to ruine the King, His Subjects, and Kingdomes.</item>
+               </list>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
